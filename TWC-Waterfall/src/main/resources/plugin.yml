@@ -1,0 +1,6 @@
+name: TWCWaterfall
+version: '${project.version}'
+main: io.github.thewebcode.TWCWaterfall
+api-version: 1.19
+authors: [ TheWebcode ]
+description: TWC Network - Waterfall Plugin
