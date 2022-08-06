@@ -1,0 +1,4 @@
+name: TWCWaterfall
+version: '${project.version}'
+main: io.github.thewebcode.twcwaterfall.TWCWaterfall
+description: TWC Network - Waterfall Plugin
