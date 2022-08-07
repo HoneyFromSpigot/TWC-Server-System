@@ -1,0 +1,6 @@
+name: TWCInternal
+version: '${project.version}'
+main: io.github.thewebcode.twcinternal.TWCInternal
+api-version: 1.19
+authors: [ TheWebcode ]
+description: TWC Network Internal Plugin
